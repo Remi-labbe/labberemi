@@ -51,6 +51,7 @@ i:hover {
 
 #identity {
     height: 25vh;
+    padding-bottom: 2rem;
     background: var(--bg-dark);
     display: flex;
     flex-direction: column;
